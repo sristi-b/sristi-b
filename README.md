@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sristi-b
+- 👋 Hi, I’m @sristi-b Sristi Banerjee
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Computer Science Engineering with Data Science Specialisation
 - 💞️ I’m looking to collaborate on any projects on the field given above.
