@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sristi-b
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Science Engineering wit Data Science Specialisation
+- 🌱 I’m currently learning Computer Science Engineering with Data Science Specialisation
 - 💞️ I’m looking to collaborate on any projects on the field given above.
 - 📫 How to reach me : email id - sristibanerjee123@gmail.com
 
